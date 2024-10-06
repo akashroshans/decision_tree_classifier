@@ -1,0 +1,21 @@
+Age,Income,Education,MaritalStatus,Children,Buy
+22,15000,High School,Single,0,No
+25,18000,Bachelor,Married,1,No
+47,80000,Master,Married,2,Yes
+52,110000,PhD,Married,3,Yes
+46,75000,Bachelor,Married,2,Yes
+56,90000,Master,Divorced,1,Yes
+24,30000,High School,Single,0,No
+27,42000,Bachelor,Single,0,No
+55,95000,Master,Married,3,Yes
+45,60000,Bachelor,Married,2,Yes
+33,45000,High School,Single,0,No
+35,60000,Bachelor,Married,1,Yes
+40,78000,Master,Married,2,Yes
+60,100000,PhD,Married,3,Yes
+18,12000,High School,Single,0,No
+30,35000,Bachelor,Single,0,No
+50,82000,Master,Married,2,Yes
+41,52000,Bachelor,Divorced,2,Yes
+48,90000,Master,Married,3,Yes
+28,32000,High School,Single,0,No
